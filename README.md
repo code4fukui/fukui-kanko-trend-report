@@ -4,10 +4,6 @@
 
 An interactive web application that visualizes tourism activity trends for Fukui Prefecture, Japan by aggregating and analyzing impression counts from online maps and web search tools.
 
-## Demo
-
-[View the Application](https://code4fukui.github.io/fukui-kanko-trend-report/)
-
 ## Features
 
 - **Area-Level & Prefectural Aggregation**: View data for individual regions or all of Fukui Prefecture combined
@@ -48,4 +44,4 @@ This application uses tourism activity data for Fukui Prefecture, Japan. The dat
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
